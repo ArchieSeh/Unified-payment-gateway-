@@ -83,6 +83,6 @@ A backend service designed to handle online transactions with scalability in min
 Contributions are welcome! Please fork the repository and submit a pull request with detailed notes.
 
 # License  
-This projegit ct is licensed under the MIT License.
+This project is licensed under the MIT License.
 
 ---  
